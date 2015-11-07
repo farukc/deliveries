@@ -1,5 +1,7 @@
 # Hands on Lab 3 - Azure Search #
 
+(https://azure.microsoft.com/en-us/documentation/articles/search-create-first-solution/)
+
 ## 1. Overview ##
 
 DocumentDB is a NoSQL document database service designed for modern mobile and web applications. 
