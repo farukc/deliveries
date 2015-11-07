@@ -1,5 +1,5 @@
-# Cloud Data Camp
-Cloud Data Camp content
+# Cloud Camp
+Cloud Camp content
 
 Session     | Time  | Activity
 -------- | --- | ---------------
