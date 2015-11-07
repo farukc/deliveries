@@ -1,4 +1,4 @@
-# Hands on Lab 4 - DocumentDb #
+# Hands on Lab 3 - Azure Search #
 
 ## 1. Overview ##
 
