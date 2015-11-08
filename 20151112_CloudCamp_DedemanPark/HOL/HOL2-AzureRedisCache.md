@@ -1,3 +1,5 @@
+We will be using https://www.documentdb.com/sql/demo
+
 + https://azure.microsoft.com/en-us/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/
 + Use Azure QuickStart template
    "C#/Cloud/QuickStart/Data Services/Azure Redis Cache" 
