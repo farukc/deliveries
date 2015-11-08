@@ -7,3 +7,5 @@ Check demo sites below as well :
   + http://azjobsdemo.azurewebsites.net
 
 Create your own "Try App" service : https://azure.microsoft.com/en-us/documentation/articles/search-tryappservice/
+
+Main reference : https://azure.microsoft.com/en-us/documentation/articles/search-video-demo-tutorial-list/
