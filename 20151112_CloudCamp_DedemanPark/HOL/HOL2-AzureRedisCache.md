@@ -1,7 +1,7 @@
 
 + https://azure.microsoft.com/en-us/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/ will be our main guide for creating Azure Redis Cache on Azure.
 
-We will be using the "C#/Cloud/QuickStart/Data Services/Azure Redis Cache" under Azure QuickStart templates in your Visual Studio
+We will be using the "C#/Cloud/QuickStart/Data Services/Azure Redis Cache" under <b>Azure QuickStart templates</b> in your Visual Studio
 ( If you don't have Azure QuickStart templates installed, download and install  https://code.msdn.microsoft.com/Azure-Redis-Cache-daad9d96?SRC=VSIDE 
 or 
 use online search in Visuail Studio samples to look for  "Azure Redis Cache (Visual C#)" and install. Follow the instructions in "Project_Readme.html")
