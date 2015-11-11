@@ -212,7 +212,7 @@ Data in the storage account is stored and organized in containers.  The followin
 
 There are many great graphical tools from Microsoft partners like Cloudberry, Cerebrata, Red Gate and zudio ([http://zudio.co](http://zudio.co)) which can be used to manage Azure Storage.  For our labs we will use a command line utility from Microsoft called AZCopy.  AZCopy is a simple tool to upload, download and copy blobs between storage accounts.
 
-If needed download and install Azcopy from [http://azure.microsoft.com/en-gb/documentation/articles/storage-use-azcopy/#install](http://azure.microsoft.com/en-gb/documentation/articles/storage-use-azcopy/#install "here") .  The lab image provided in class has already installed AZCopy. 
+If needed download and install Azcopy from [http://azure.microsoft.com/en-gb/documentation/articles/storage-use-azcopy/#install](http://azure.microsoft.com/en-gb/documentation/articles/storage-use-azcopy/#install "here") .
 
 
 1.	Enter the following statement and note the options for the utility. Notice that a storage account key is required to copy or download data from the blob container. The key was saved to the text file in the previous steps.
