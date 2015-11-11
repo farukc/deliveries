@@ -15,8 +15,8 @@ This sample demonstrates the following scenarios:
 6. Storing items with an expiration time
 
 Running this sample
-1. Use the Azure Portal to create a new Redis Cache 
-2. Edit app.config and replace the redisCacheName and redisCachePassword with values provided from the portal 
+1. Use the Azure Portal to create a new Redis Cache
+2. Edit app.config and replace the redisCacheName and redisCachePassword with values provided from the portal
 3. Run the sample 
 
 More information
