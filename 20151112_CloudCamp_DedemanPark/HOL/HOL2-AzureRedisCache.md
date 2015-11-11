@@ -8,11 +8,11 @@ use online search in Visuail Studio samples to look for  "Azure Redis Cache (Vis
 
 This sample demonstrates the following scenarios:
 ######1.Connecting to a Redis cache using the StackExchange Redis client ######
-2.Storing and retrieving primitive values 
-3.Storing and retrieving .NET objects 
-4.Retrieving and/or adding cache entries 
-5.Removing items from the cache 
-6.Storing items with an expiration time 
+######2.Storing and retrieving primitive values ######
+######3.Storing and retrieving .NET objects ######
+######4.Retrieving and/or adding cache entries ######
+######5.Removing items from the cache ######
+######6.Storing items with an expiration time ######
 
 Running this sample
 1.Use the Azure Portal to create a new Redis Cache 
