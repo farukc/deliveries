@@ -6,7 +6,7 @@ Cloud Camp content
 
 Session     | Time  | Activity
 -------- | --- | ---------------
-Introduction to Azure Data Analytics  | 30  | <a href='Presentation/Introduction/Introduction.pptx'>Presentation - Introduction to Azure</a>
+Introduction to Azure   | 30  | <a href='Presentation/Introduction/Introduction.pptx'>Presentation - Introduction to Azure</a>
 Lab: Explore the Portal | 60  | <a href='HOL/HOL1-IntroductionToAzure.md'>HOL 1 - Introduction to Azure</a>
 Azure Redis Cache | 45  | <a href='Presentation/Azure Redis Cache/Azure Redis Cache.pptx'>Presentation - Azure Redis Cache</a>
 Lab: Azure Redis Cache | 45  | <a href='HOL/HOL2-AzureRedisCache.md'>HOL 2 - Azure Redis Cache</a>
