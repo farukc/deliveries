@@ -223,6 +223,8 @@ If needed download and install Azcopy from [http://azure.microsoft.com/en-gb/doc
 
     ```azcopy /Source:"**<path to labs>**\HOL 1\data" /Dest:https://**[account name]**.blob.core.windows.net/data/input /DestKey:**[account key]** /S```
 
+Alternative tool : Azure Storage Explorer  https://azurestorageexplorer.codeplex.com
+
 
 # 4. Microsoft Azure SQL Database #
 
