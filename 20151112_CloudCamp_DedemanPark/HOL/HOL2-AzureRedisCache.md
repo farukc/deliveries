@@ -7,7 +7,7 @@ or
 use online search in Visuail Studio samples to look for  "Azure Redis Cache (Visual C#)" and install. Follow the instructions in "Project_Readme.html")
 
 This sample demonstrates the following scenarios:
-####1.Connecting to a Redis cache using the StackExchange Redis client ####
+######1.Connecting to a Redis cache using the StackExchange Redis client ######
 2.Storing and retrieving primitive values 
 3.Storing and retrieving .NET objects 
 4.Retrieving and/or adding cache entries 
