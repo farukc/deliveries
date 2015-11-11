@@ -1,3 +1,5 @@
+We will be using https://www.documentdb.com/sql/demo
+
 # Hands on Lab 4 - DocumentDb #
 
 ## 1. Overview ##
