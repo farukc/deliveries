@@ -1,0 +1,15 @@
+				PPT		Lab
+
+PaaS				
+Data
+DocumentDB					
+Azure Redis Cache		-		ok (from azure.microsoft.com)
+WebJobs
+Azure Search
+Media Services
+Azure Remote App
+
+
+
+==> EventHub
+

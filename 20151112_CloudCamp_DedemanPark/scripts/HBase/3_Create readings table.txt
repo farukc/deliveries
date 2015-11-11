@@ -1,3 +1,0 @@
-create 'readings', 'count', 'sum', 'average' 
-
-list 'readings' 
