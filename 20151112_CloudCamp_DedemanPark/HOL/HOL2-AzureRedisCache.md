@@ -6,18 +6,18 @@ We will be using the "C#/Cloud/QuickStart/Data Services/Azure Redis Cache" under
 or 
 use online search in Visuail Studio samples to look for  "Azure Redis Cache (Visual C#)" and install. Follow the instructions in "Project_Readme.html")
 
-This sample demonstrates the following scenarios:
-1. Connecting to a Redis cache using the StackExchange Redis client
-2. Storing and retrieving primitive values
-3. Storing and retrieving .NET objects
-4. Retrieving and/or adding cache entries
-5. Removing items from the cache
-6. Storing items with an expiration time
+This sample demonstrates the following scenarios:<br>
+1. Connecting to a Redis cache using the StackExchange Redis client<br>
+2. Storing and retrieving primitive values<br>
+3. Storing and retrieving .NET objects<br>
+4. Retrieving and/or adding cache entries<br>
+5. Removing items from the cache<br>
+6. Storing items with an expiration time<br>
 
-Running this sample
-1. Use the Azure Portal to create a new Redis Cache
-2. Edit app.config and replace the redisCacheName and redisCachePassword with values provided from the portal
-3. Run the sample 
+Running this sample<br>
+1. Use the Azure Portal to create a new Redis Cache<br>
+2. Edit app.config and replace the redisCacheName and redisCachePassword with values provided from the portal<br>
+3. Run the sample <br><br>
 
 More information
 + Cache Documentation http://azure.microsoft.com/en-us/documentation/services/cache/
